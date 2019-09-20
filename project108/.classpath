@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="KDD_Action_Rules_Gen.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
